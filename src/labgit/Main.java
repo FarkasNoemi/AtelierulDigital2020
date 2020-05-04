@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Atelierul digital");
     }
 }
-
+//comentariu
 //Adding to GIT:
 
 //git status
