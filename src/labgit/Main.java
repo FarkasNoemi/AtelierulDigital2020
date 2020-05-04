@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Atelierul digital");
     }
 }
-//comentariu
+
 //Adding to GIT:
 
 //git status
@@ -14,5 +14,5 @@ public class Main {
 //git status
 //git add .
 //git commit -m "ceva mesaj"
-//git remote add origin  https://github.com/farkasnoemi1712/AtelierulDigital.git vagy ahova adod
+//git remote add origin  https://github.com/FarkasNoemi/AtelierulDigital2020.git vagy ahova adod
 //git push -u origin master
