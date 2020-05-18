@@ -5,7 +5,6 @@ public class Main {
     public static void main(String[] args) {
         SomeClass sc = new SomeClass();
         try {
-
             sc.methodUncheckedException(2);
             sc.methodUncheckedException(0);
 
