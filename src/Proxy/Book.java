@@ -38,16 +38,4 @@ public class Book {
     public void addContent(Element element){
         content.add(element);
     }
-
-    /*
-    public int createChapter(String chptName) {
-        Chapter chpt = new Chapter(chptName);
-        chapters.add(chpt);
-        return chapters.indexOf(chpt);
-    }
-
-    public Chapter getChapter(int chapterIndex) {
-        return chapters.get(chapterIndex);
-    }
-     */
 }

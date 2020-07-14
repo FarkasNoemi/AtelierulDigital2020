@@ -47,6 +47,5 @@ public class Section implements Element{
         for (Element element : content){
             element.print();
         }
-
     }
 }
